@@ -720,9 +720,11 @@ section.top-cover .inner .details a.link:hover {
     transform: translate(-50%, -50%);
     width: calc(100% - 48px);
     height: calc(100% - 48px);
-    
     border: 2px solid var(--background-tertiary);
     border-radius: 40px;
+    background: url(/assets/img/mempelai-1-1.webp);
+    background-size: cover;
+    background-position: center;
 }
 
 /* cover logo */
